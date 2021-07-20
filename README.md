@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi I'm Jigsaw
 
-<!--
-**jigbr/jigbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://discord.c99.nl/widget/theme-3/242435108504731648.png" style="width: 5rem;">  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me:
+
+```
+- 💦I'm currently working on a project!
+ 
+- 👊If you need help you can call me!
+ 
+- 😴Studying....
+```
+<br/>
+
+<div>
+
+![jigbr GitHub stats](https://github-readme-stats.vercel.app/api?username=jigbr&show_icons=true&theme=algolia) 
+
+</div>
+      
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigbr&langs_count=8&theme=algolia)
