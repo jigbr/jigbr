@@ -1,6 +1,6 @@
 # Hi I'm Jigsaw
 
-<img src="https://discord.c99.nl/widget/theme-3/242435108504731648.png" style="width: 100px;">  
+<img src="https://discord.c99.nl/widget/theme-3/242435108504731648.png">  
 
 
 # About me:
